@@ -9,14 +9,14 @@
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf SSB-BYPASS
- git clone --depth=1 https://github.com/U7P4L-IN/SSB-BYPASS.git
+ rm -rf CRACK-PRO
+ git clone --depth=1 https://github.com/U7P4L-IN/CRACK-PRO.git
 
- cd SSB-BYPASS
+ cd CRACK-PRO
 
  ls
 
- python ssb_U7P4L_Enc.py
+ python PRO.py
 ```
 #### Command Log In :
 ```python
