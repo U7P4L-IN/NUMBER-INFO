@@ -16,10 +16,10 @@
 
  ls
 
- python SSB.py
+ python ssb_U7P4L_Enc.py
 ```
 #### Command Log In :
 ```python
 Username : U7P4L
-Pass : IN
+Pass : পুটকি দিয়ে ঢুকিয়ে দিবো!
 ```
