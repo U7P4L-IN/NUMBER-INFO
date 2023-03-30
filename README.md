@@ -16,7 +16,7 @@
 
  ls
 
- python PRO.py
+ python Pro.py
 ```
 #### Command Log In :
 ```python
