@@ -20,6 +20,6 @@
 ```
 #### Command Log In :
 ```python
-Username : U7P4L
-Pass : পুটকি দিয়ে ঢুকিয়ে দিবো!
+Username : 
+Pass :
 ```
