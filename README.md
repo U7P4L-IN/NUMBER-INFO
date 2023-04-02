@@ -16,7 +16,7 @@
 
  ls
 
- python Pro.py
+ python Mix.py
 ```
 #### Command Log In :
 ```python
