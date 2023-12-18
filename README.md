@@ -91,7 +91,7 @@ pkg install python
 pip install requests
 pip install bs4
 rm -rf NUMBER-INFO
-git clone --depth=1 https://github.com/U7P4L-IN/FB-BRUTE.git
+git clone --depth=1 https://github.com/U7P4L-IN/NUMBER-INFO.git
 cd NUMBER-INFO
 python3 number.py
 
