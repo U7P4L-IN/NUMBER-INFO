@@ -92,8 +92,6 @@ sudo python3 number.py
 <p align="center"><img src="/Image/demo4.png" width="100%"/>
 </p>
 
-<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
-
 ### Languages :
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=NUMBER-INFO&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
@@ -118,8 +116,6 @@ For more convoluted language, see the [LICENSE](/LICENSE).
 
 # Report bugs
 If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
-
-
 
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
